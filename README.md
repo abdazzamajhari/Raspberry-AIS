@@ -1,4 +1,4 @@
-# Raspberry-AIS
+# Raspberry AIS
 Raspberry PI AIS Receiver for Ship tracking
 
 *Work on:*
