@@ -4,7 +4,6 @@ Raspberry PI AIS Receiver for Ship tracking
 *Work on:*
 - Raspberry PI 3 B
 - Raspberry PI 3 B+
-- Raspberry PI 4
 
 *Here's the code:*
 - sudo apt-get update
